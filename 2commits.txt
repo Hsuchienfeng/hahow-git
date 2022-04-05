@@ -1,0 +1,2 @@
+我最近才開始入門學python,但自學真的不容易,碰到很多狀況都要自己找方法解決,希望老師上課這裏可以有個粉絲團或是line群組可支援一些問題狀況比較即時謝謝.
+alias ls="ls --show-control-chars --color"

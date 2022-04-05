@@ -1,0 +1,2 @@
+希望這門課可以學到實用的各項指令建立檔案修改的歷程資料,可以把各項程式做好管理
+alias ls="ls --show-control-chars --color"
